@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F9167C75203F1BF900F4351E /* oth.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9167C74203F1BF900F4351E /* oth.swift */; };
 		F9BA3D2B20343B2500216595 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9BA3D2A20343B2500216595 /* AppDelegate.swift */; };
 		F9BA3D3020343B2500216595 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9BA3D2E20343B2500216595 /* Main.storyboard */; };
 		F9BA3D3220343B2500216595 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F9BA3D3120343B2500216595 /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F9167C74203F1BF900F4351E /* oth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = oth.swift; sourceTree = "<group>"; };
 		F9BA3D2720343B2500216595 /* State.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = State.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9BA3D2A20343B2500216595 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F9BA3D2F20343B2500216595 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 		F9BA3D2920343B2500216595 /* State */ = {
 			isa = PBXGroup;
 			children = (
+				F9167C74203F1BF900F4351E /* oth.swift */,
 				F9BA3D2A20343B2500216595 /* AppDelegate.swift */,
 				F9BA3D2E20343B2500216595 /* Main.storyboard */,
 				F9BA3D3C20343B7C00216595 /* StateTableViewController.swift */,
@@ -154,6 +157,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F9BA3D2B20343B2500216595 /* AppDelegate.swift in Sources */,
+				F9167C75203F1BF900F4351E /* oth.swift in Sources */,
 				F9BA3D3F20343FC000216595 /* StateTableViewCell.swift in Sources */,
 				F9BA3D4920344ADA00216595 /* StatesDetailViewController.swift in Sources */,
 				F9BA3D75203575F600216595 /* StatesDetailTableViewCell.swift in Sources */,
